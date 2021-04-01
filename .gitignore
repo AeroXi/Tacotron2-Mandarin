@@ -8,3 +8,4 @@ waveglow_256channels.pt
 nohup.out
 data
 .ipynb_checkpoints/
+tacotron2-cn.pt
